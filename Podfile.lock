@@ -1,0 +1,241 @@
+PODS:
+  - AWSAPIGateway (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSAuthCore (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSAutoScaling (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSCloudWatch (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSCognito (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSCognitoIdentityProvider (2.6.28):
+    - AWSCognitoIdentityProviderASF (= 1.0.1)
+    - AWSCore (= 2.6.28)
+  - AWSCognitoIdentityProviderASF (1.0.1)
+  - AWSComprehend (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSCore (2.6.28)
+  - AWSDynamoDB (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSEC2 (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSElasticLoadBalancing (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSiOSSDKv2 (2.6.28):
+    - AWSiOSSDKv2/AutoScaling (= 2.6.28)
+    - AWSiOSSDKv2/AWSAPIGateway (= 2.6.28)
+    - AWSiOSSDKv2/AWSCognito (= 2.6.28)
+    - AWSiOSSDKv2/AWSCognitoIdentityProvider (= 2.6.28)
+    - AWSiOSSDKv2/AWSComprehend (= 2.6.28)
+    - AWSiOSSDKv2/AWSCore (= 2.6.28)
+    - AWSiOSSDKv2/AWSIoT (= 2.6.28)
+    - AWSiOSSDKv2/AWSKMS (= 2.6.28)
+    - AWSiOSSDKv2/AWSLambda (= 2.6.28)
+    - AWSiOSSDKv2/AWSLex (= 2.6.28)
+    - AWSiOSSDKv2/AWSLogs (= 2.6.28)
+    - AWSiOSSDKv2/AWSMachineLearning (= 2.6.28)
+    - AWSiOSSDKv2/AWSPolly (= 2.6.28)
+    - AWSiOSSDKv2/AWSRekognition (= 2.6.28)
+    - AWSiOSSDKv2/AWSS3 (= 2.6.28)
+    - AWSiOSSDKv2/AWSSES (= 2.6.28)
+    - AWSiOSSDKv2/AWSSimpleDB (= 2.6.28)
+    - AWSiOSSDKv2/AWSSNS (= 2.6.28)
+    - AWSiOSSDKv2/AWSSQS (= 2.6.28)
+    - AWSiOSSDKv2/AWSTranscribe (= 2.6.28)
+    - AWSiOSSDKv2/AWSTranslate (= 2.6.28)
+    - AWSiOSSDKv2/CloudWatch (= 2.6.28)
+    - AWSiOSSDKv2/DynamoDB (= 2.6.28)
+    - AWSiOSSDKv2/EC2 (= 2.6.28)
+    - AWSiOSSDKv2/ElasticLoadBalancing (= 2.6.28)
+    - AWSiOSSDKv2/Kinesis (= 2.6.28)
+    - AWSiOSSDKv2/MobileAnalytics (= 2.6.28)
+    - AWSiOSSDKv2/Pinpoint (= 2.6.28)
+  - AWSiOSSDKv2/AutoScaling (2.6.28):
+    - AWSAutoScaling (= 2.6.28)
+  - AWSiOSSDKv2/AWSAPIGateway (2.6.28):
+    - AWSAPIGateway (= 2.6.28)
+  - AWSiOSSDKv2/AWSCognito (2.6.28):
+    - AWSCognito (= 2.6.28)
+  - AWSiOSSDKv2/AWSCognitoIdentityProvider (2.6.28):
+    - AWSCognitoIdentityProvider (= 2.6.28)
+  - AWSiOSSDKv2/AWSComprehend (2.6.28):
+    - AWSComprehend (= 2.6.28)
+  - AWSiOSSDKv2/AWSCore (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSiOSSDKv2/AWSIoT (2.6.28):
+    - AWSIoT (= 2.6.28)
+  - AWSiOSSDKv2/AWSKMS (2.6.28):
+    - AWSKMS (= 2.6.28)
+  - AWSiOSSDKv2/AWSLambda (2.6.28):
+    - AWSLambda (= 2.6.28)
+  - AWSiOSSDKv2/AWSLex (2.6.28):
+    - AWSLex (= 2.6.28)
+  - AWSiOSSDKv2/AWSLogs (2.6.28):
+    - AWSLogs (= 2.6.28)
+  - AWSiOSSDKv2/AWSMachineLearning (2.6.28):
+    - AWSMachineLearning (= 2.6.28)
+  - AWSiOSSDKv2/AWSPolly (2.6.28):
+    - AWSPolly (= 2.6.28)
+  - AWSiOSSDKv2/AWSRekognition (2.6.28):
+    - AWSRekognition (= 2.6.28)
+  - AWSiOSSDKv2/AWSS3 (2.6.28):
+    - AWSS3 (= 2.6.28)
+  - AWSiOSSDKv2/AWSSES (2.6.28):
+    - AWSSES (= 2.6.28)
+  - AWSiOSSDKv2/AWSSimpleDB (2.6.28):
+    - AWSSimpleDB (= 2.6.28)
+  - AWSiOSSDKv2/AWSSNS (2.6.28):
+    - AWSSNS (= 2.6.28)
+  - AWSiOSSDKv2/AWSSQS (2.6.28):
+    - AWSSQS (= 2.6.28)
+  - AWSiOSSDKv2/AWSTranscribe (2.6.28):
+    - AWSTranscribe (= 2.6.28)
+  - AWSiOSSDKv2/AWSTranslate (2.6.28):
+    - AWSTranslate (= 2.6.28)
+  - AWSiOSSDKv2/CloudWatch (2.6.28):
+    - AWSCloudWatch (= 2.6.28)
+  - AWSiOSSDKv2/DynamoDB (2.6.28):
+    - AWSDynamoDB (= 2.6.28)
+  - AWSiOSSDKv2/EC2 (2.6.28):
+    - AWSEC2 (= 2.6.28)
+  - AWSiOSSDKv2/ElasticLoadBalancing (2.6.28):
+    - AWSElasticLoadBalancing (= 2.6.28)
+  - AWSiOSSDKv2/Kinesis (2.6.28):
+    - AWSKinesis (= 2.6.28)
+  - AWSiOSSDKv2/MobileAnalytics (2.6.28):
+    - AWSMobileAnalytics (= 2.6.28)
+  - AWSiOSSDKv2/Pinpoint (2.6.28):
+    - AWSPinpoint (= 2.6.28)
+  - AWSIoT (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSKinesis (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSKMS (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSLambda (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSLex (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSLogs (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSMachineLearning (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSMobileAnalytics (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSMobileClient (2.6.28):
+    - AWSAuthCore (= 2.6.28)
+  - AWSPinpoint (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSPolly (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSRekognition (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSS3 (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSSES (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSSimpleDB (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSSNS (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSSQS (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSTranscribe (2.6.28):
+    - AWSCore (= 2.6.28)
+  - AWSTranslate (2.6.28):
+    - AWSCore (= 2.6.28)
+
+DEPENDENCIES:
+  - AWSAutoScaling
+  - AWSCloudWatch
+  - AWSCognito
+  - AWSCognitoIdentityProvider
+  - AWSDynamoDB
+  - AWSEC2
+  - AWSElasticLoadBalancing
+  - AWSiOSSDKv2
+  - AWSIoT
+  - AWSKinesis
+  - AWSLambda
+  - AWSMachineLearning
+  - AWSMobileAnalytics
+  - AWSMobileClient
+  - AWSS3
+  - AWSSES
+  - AWSSimpleDB
+  - AWSSNS
+  - AWSSQS
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AWSAPIGateway
+    - AWSAuthCore
+    - AWSAutoScaling
+    - AWSCloudWatch
+    - AWSCognito
+    - AWSCognitoIdentityProvider
+    - AWSCognitoIdentityProviderASF
+    - AWSComprehend
+    - AWSCore
+    - AWSDynamoDB
+    - AWSEC2
+    - AWSElasticLoadBalancing
+    - AWSiOSSDKv2
+    - AWSIoT
+    - AWSKinesis
+    - AWSKMS
+    - AWSLambda
+    - AWSLex
+    - AWSLogs
+    - AWSMachineLearning
+    - AWSMobileAnalytics
+    - AWSMobileClient
+    - AWSPinpoint
+    - AWSPolly
+    - AWSRekognition
+    - AWSS3
+    - AWSSES
+    - AWSSimpleDB
+    - AWSSNS
+    - AWSSQS
+    - AWSTranscribe
+    - AWSTranslate
+
+SPEC CHECKSUMS:
+  AWSAPIGateway: ca45f528496b04d59bd642906c995caf3a0d82df
+  AWSAuthCore: 0cac96d75993f2d13c5a357b88e965ae497c9eb7
+  AWSAutoScaling: 7a298aadf45b8435844bb0b4b21396fd6e295aa7
+  AWSCloudWatch: b4662684991bae823ab2ca37f204cca4631f7be3
+  AWSCognito: 7e4b529f1e19ce04a00dec4de175509dd5001d5f
+  AWSCognitoIdentityProvider: 9eec83ce5774fc7bf1d9abaa6d74e077acc763ef
+  AWSCognitoIdentityProviderASF: f94f1a502e72ef3d0a1de93e10bf7a79c8698118
+  AWSComprehend: 93d9ddf9a0154c91322eaac7b8dcc389d148e72d
+  AWSCore: f75fcf5b2f4325da49ae1f7cb5484778d3b0acc6
+  AWSDynamoDB: 18675e3b8794934ae1d6f8081a9a593a41e45e7e
+  AWSEC2: 5aaec1c3df3b91d6844140d1257909e4747dec46
+  AWSElasticLoadBalancing: f606eb0f60065dc2e862a74997a2efc9df25bbc9
+  AWSiOSSDKv2: 42aeb0152f3a5fd5fb8ecf7c2e79f6f231debbb2
+  AWSIoT: b7e4f1bae2e4446d7de14efd87523904c7ac7c39
+  AWSKinesis: f007c9e76c48bed90652fcfa40ae60f4630837b2
+  AWSKMS: 56d70cac194959b665900efe211d99c7f5de6dc5
+  AWSLambda: c44b70fd8723a19a497ab8ba6bce84dde902c7b4
+  AWSLex: 648b094084b428184c93fc49ecce389e7836ce80
+  AWSLogs: e2776862b46d4d73a51b107fda243fcb67e9e001
+  AWSMachineLearning: d6df3cdb6ebeb74d3e79f573f7bd673cf45cece2
+  AWSMobileAnalytics: 8e5e59ea00874c92ad0454466e070ec902d1c194
+  AWSMobileClient: e7b73edb915a71e3f3809382b9290fdf19da49a5
+  AWSPinpoint: e59c331e17a092f28fec768076cbcd32e087360e
+  AWSPolly: 07ee1623aa8fb317a9b324a8ff18eeef10b86a0b
+  AWSRekognition: 9029a3dc1ebb7bc9e58536c4544b799a71723496
+  AWSS3: ca0ba62719281d7a39e50bbd0c6b8ef6e11943c9
+  AWSSES: a30627aecd4101ca8e42353c34c986f8dc73d9ef
+  AWSSimpleDB: 36d15ab56cacee6f895018431fa12aeb23e1be9e
+  AWSSNS: a67710a80c8d380e34248b16e503e0719f02a28d
+  AWSSQS: c0c83f5913acb153a6464e461bcc9bb20f630939
+  AWSTranscribe: 2e152be6b091d1c9eb614ba8c323b81e8cf4b09c
+  AWSTranslate: 3816ba3e599117d6a29bcb433a6bc7a8bb92b51e
+
+PODFILE CHECKSUM: 3c1a71796b28cf94ba854d749477825d8b3eebb0
+
+COCOAPODS: 1.5.3
